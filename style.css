@@ -1,0 +1,20 @@
+:root {
+    --highlight: #5756e6;
+}
+
+* {
+     box-sizing: border-box;
+}
+
+body {
+    background-color: #a4b1e6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+#navbar {
+    border-radius: 32px;
+}
